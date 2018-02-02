@@ -1,0 +1,11 @@
+{
+  "name": "openpgp.js-example",
+  "version": "1.0.0",
+  "description": "Example how to encrypt and decrypt files using openpgp.js",
+  "dependencies": {
+    "openpgp": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.0"
+  }
+}
