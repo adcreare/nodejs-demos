@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    // "module": "commonjs",
+    "target": "es2017",
+    "rootDir": "./",
+    "lib": [
+      "esnext", "dom"
+    ],
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
